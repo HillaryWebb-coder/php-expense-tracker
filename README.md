@@ -1,7 +1,7 @@
 # php-expense-tracker
 A simple expense tracker application using php and ajax
 
-#####Skills Used: PHP, AJAX, MYSQL, Bootstrap
+##### Skills Used: PHP, AJAX, MYSQL, Bootstrap
 
 To get started:
 - Clone the repo in your server root
